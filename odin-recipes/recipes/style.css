@@ -1,0 +1,16 @@
+.desc{
+    background-color: hsl(150, 100%, 64%);
+}
+
+.ingridients{
+    background-color: hsl(170, 100%, 64%);
+}
+
+.steps{
+    background-color: hsl(197, 100%, 64%);
+}
+
+body{
+    background-color: hsl(120, 100%, 89%);
+    font-family: 'Courier New', Courier, monospace;
+}

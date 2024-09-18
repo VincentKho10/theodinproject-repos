@@ -1,0 +1,16 @@
+body{
+    background-color: hsl(91, 74%, 82%);
+}
+
+.menus{
+    background-color: hsl(91, 89%, 71%);
+    font-size: 25px;
+}
+
+a{
+    color: black;
+}
+
+.menus .even{
+    background-color: hsl(71, 89%, 71%);
+}
