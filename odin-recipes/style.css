@@ -14,3 +14,14 @@ a{
 .menus .even{
     background-color: hsl(71, 89%, 71%);
 }
+
+li{
+    display: inline;
+    height: auto;
+    width: auto;
+    margin: 0px 50px 0px 0px;
+}
+
+ul{
+    text-align: center;
+}
